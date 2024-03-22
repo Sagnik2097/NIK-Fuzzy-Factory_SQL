@@ -54,4 +54,4 @@ We will be working with six related tables, which contain eCommerce data about:
 • Products 
 • Orders and Refunds. etc. 
  
-* For more details reffer to the pdf. file
+                                                              * For more details reffer to the NIK Fuzzy Factory Documentation
